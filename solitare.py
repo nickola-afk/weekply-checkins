@@ -62,7 +62,6 @@ while len(down7) < 7:
 
 def draw():
     
-
 print(down1)
 print(down2)
 print(down3)
