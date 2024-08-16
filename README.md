@@ -6,7 +6,13 @@ week 2 v1
 -sidenote
   7 kya is hard and i took all day with the 6 so...
   
-week 3 v1 -details
+week 3 v1 
+
+-details
+  I went and completed all the levels on codeCombat and i played against some bots using while loops. I also created a hangman game off python and uploaded the file
+-sidenote
+  i also have a solitare file and i might continue it once i reach 100 kyu and begin the certification.
+  
 
 week 4 v1 -details
 
